@@ -31,6 +31,11 @@ function whileLoop(number) {
   
 }
 
+function maybeTrue() {
+  
+  return Math.random() >= 0.5
+  
+}
 
 function doWhileLoop(array) {
   
